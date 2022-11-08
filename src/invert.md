@@ -7,7 +7,7 @@ The main purpose of this notebook is to demonstrate the humidified tandem differ
 ## Request Resource
 
 ```@raw html 
-<p>To use this notebooks follow this link: <a href="http://notebooks.meas.ncsu.edu/invertHTDMA" target="_blank">http://notebooks.meas.ncsu.edu/virtualTDMA</a></p> 
+<p>To use this notebooks follow this link: <a href="http://notebooks.meas.ncsu.edu/invertHTDMA" target="_blank">http://notebooks.meas.ncsu.edu/invertHTDMA</a></p> 
 ```
 
 
