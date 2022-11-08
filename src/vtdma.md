@@ -6,11 +6,15 @@ The main purpose of this notebook is to interactively explore the output of a vo
 
 ## Request Resource
 
-To use this notebooks follow this link: [http://notebooks.meas.ncsu.edu/virtualTDMA](http://notebooks.meas.ncsu.edu/virtualTDMA). 
+```@raw html 
+<p>To use these notebooks follow this link: <a href="http://notebooks.meas.ncsu.edu/virtualTDMA" target="_blank">http://notebooks.meas.ncsu.edu/virtualTDMA</a></p> 
+```
 
-*For best results please consider using a Chromium based browser. The stylesheet creates overly wide text boxes in Firefox.*
+!!! warning
+    For best results please consider using a Chromium based browser. The stylesheet creates overly wide text boxes in Firefox.
 
-Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 25. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request.
+!!! note 
+    Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 25. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request.
 
 ## Code Availability
 

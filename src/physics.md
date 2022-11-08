@@ -1,12 +1,19 @@
 # Atmospheric Physics Notebooks
 
-The notebooks contain instructional material, interactive web-apps, and exercises for students to engage with the material using an inquiry-based approach. Details about this project are given in [Petters, 2021](https://journals.ametsoc.org/view/journals/bams/102/3/BAMS-D-20-0072.1.xml){:target="_blank"}. 
+The notebooks contain instructional material, interactive web-apps, and exercises for students to engage with the material using an inquiry-based approach. Details about this project are given in [Petters, 2021](https://journals.ametsoc.org/view/journals/bams/102/3/BAMS-D-20-0072.1.xml). 
 
 ## Request Resource
 
-To use these notebooks follow this link: [http://notebooks.meas.ncsu.edu/apn](http://notebooks.meas.ncsu.edu/apn). 
+```@raw html 
+<p>To use these notebooks follow this link: <a href="http://notebooks.meas.ncsu.edu/apn" target="_blank">http://notebooks.meas.ncsu.edu/apn</a></p> 
+```
 
-Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 50. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request. Therefore the class size should probably be less than 40 students.
+!!! warning
+    It is possible to open multiple Jupyter notebooks with a single provisioned resource. Please do not request a multiple instances for the purpose of opening multiple notebooks.  
+
+
+!!! note
+    Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 50. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request. 
 
 ## How to Use
 
