@@ -5,6 +5,7 @@ makedocs(
   authors = "Markus Petters",
   pages = Any[
     "Home" => "index.md",
+    "Cold Stage Control" => "coldstage.md",
     "Virtual Tandem DMA" => "vtdma.md",
     "Hygroscopicity Testbed" => "testbed.md",
     "HTDMA Inversion" => "invert.md",
