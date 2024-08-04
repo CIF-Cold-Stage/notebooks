@@ -2,7 +2,7 @@
 
 Interactive jupyter notebooks, including audio and video clips. The notebooks feature an introduction to differential mobility analyzers and data inversion techniques. Content is based on the work in [Petters et, 2018](https://www.tandfonline.com/doi/full/10.1080/02786826.2018.1530724) and the [DifferentialMobilityAnalyzers.jl](https://mdpetters.github.io/DifferentialMobilityAnalyzers.jl/stable/) software package. Session 3 provides application of [generalized Tikhonov regularization](https://en.wikipedia.org/wiki/Ridge_regression) for size distribution inversion. The material was delivered as a tutorial at the annual AAAR conference. 
 
-**This underlying work was supported by the DOE grant DE-SC0018265. Creation of the tutorial was supported by the American Association of Aerosol Research (2019, 2020, 2021).**
+**This underlying work was supported by DOE grant DE-SC0018265. Creation of the tutorial was supported by the American Association of Aerosol Research (2019, 2020, 2021).**
 
 ##  Docker/Podman Access
 

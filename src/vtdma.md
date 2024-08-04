@@ -2,7 +2,7 @@
 
 The main purpose of this notebook is to interactively explore the output of a volatility/hygroscopicity tandem differential mobility analyzer (DMA) system. The instructor guides the students through the basic theory of operation. Changing the inputs allows students to visualize the role of multiply charged particles in shaping the tandem DMA response function.
 
-**This work was supported by the U.S. National Science Foundation grant AGS 2037704.**
+**This work was supported by the U.S. National Science Foundation grant AGS 2037704. Infrastructure for hosting this notebook online is supported by NSF-AGS-2112978.**
 
 ## Request Resource
 
@@ -11,7 +11,7 @@ The main purpose of this notebook is to interactively explore the output of a vo
 ```
 
 !!! warning
-    For best results please consider using a Chromium-based browser using a light theme. The style sheet creates overly wide text boxes in Firefox.
+    For best results please consider using a light theme. 
 
 !!! note 
     Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 20. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request.

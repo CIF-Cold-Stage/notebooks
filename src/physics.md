@@ -4,7 +4,7 @@ The notebooks contain instructional material, interactive web-apps, and exercise
 
 ## Docker/Podman Access
 
-Users with access to either [docker](https://docs.docker.com/get-docker/) or [podman](https://podman.io/getting-started/installation) can bypass the server and run the containers on their own hardware using the following command
+Users can access these notebooks either via [docker](https://docs.docker.com/get-docker/) or [podman](https://podman.io/getting-started/installation) using the following command
 
 ```bash
 docker run -it -p 8888:8888 docker.io/mdpetters/apn:latest

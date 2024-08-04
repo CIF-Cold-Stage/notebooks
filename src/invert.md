@@ -2,7 +2,7 @@
 
 The main purpose of this notebook is to demonstrate the humidified tandem differential mobility analyzer inversion scheme described in [Petters 2021](https://amt.copernicus.org/articles/14/7909/2021/). The app provides synthetic examples and allows users to experiment with different settings. 
 
-**This work was supported by the US Department of Energy grant DE-SC 0021074**
+**This work was supported by the US Department of Energy grant DE SC-0021074. Development of this online tool was supported by NSF grant AGS-2037704. Infrastructure for hosting this notebook online is supported by NSF-AGS-2112978.**
 
 ## Request Resource
 
@@ -12,7 +12,7 @@ The main purpose of this notebook is to demonstrate the humidified tandem differ
 
 
 !!! warning
-    For best results please consider using a Chromium-based browser using a light theme. The style sheet creates overly wide text boxes in Firefox.
+    For best results please consider using a light theme. 
 
 !!! note 
     Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 5. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request.

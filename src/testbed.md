@@ -4,7 +4,7 @@ The main purpose of this notebook is to interactively interface with the [AIOMFA
 
 From an educational perspective, this module can be used to illustrate the effect of particle composition on the humidity dependent aerosol hgroscopicity.
 
-**This work was supported by the NASA grant 80NSSC19K0694.**
+**This work was supported by the NASA grant 80NSSC19K0694.The AIOMFAC integration into the testbed code was supported by NSF grant AGS-2037704. Infrastructure for hosting this notebook online is supported by NSF-AGS-2112978.**
 
 ## Request Resource
 
@@ -13,7 +13,7 @@ From an educational perspective, this module can be used to illustrate the effec
 ```
 
 !!! warning
-    For best results please consider using a Chromium-based browser using a light theme. The style sheet creates overly wide text boxes in Firefox.
+    For best results please consider using a light theme.
 
 !!! note
     Provisioning of an instance requires a few seconds. The total number of concurrently available instances is 5. You may directly supply this link to students in your course for use during and after lectures. Note that students sometimes accidentally close browser tab. If they do so, they may use the link again to request a new set of notebooks. However, the original resource only reenters the pool after 75-95 min of the original request.
